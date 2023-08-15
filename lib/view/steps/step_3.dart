@@ -108,7 +108,7 @@ class _Step3State extends State<Step3> with TickerProviderStateMixin{
                     child: Container(
                       padding: EdgeInsets.symmetric(
                           horizontal: 1.5.w,
-                          vertical: 0.5.h
+                          vertical: 0.5.h,
                       ),
                       decoration: BoxDecoration(
                           color: AppColor.tabBgColor,
